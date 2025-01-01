@@ -23,7 +23,7 @@ public class SearchTraining {
 
 	public static void main(String[] args) {
 		
-
+		System.out.println("seacrch by selenium works");
 	}
 
 }
